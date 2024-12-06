@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\saker\bin\Debug\net8.0\saker.exe
+C:\Users\Admin\Documents\GitHub\saker\bin\Debug\net8.0\saker.deps.json
+C:\Users\Admin\Documents\GitHub\saker\bin\Debug\net8.0\saker.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\saker\bin\Debug\net8.0\saker.dll
+C:\Users\Admin\Documents\GitHub\saker\bin\Debug\net8.0\saker.pdb
+C:\Users\Admin\Documents\GitHub\saker\obj\Debug\net8.0\saker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\saker\obj\Debug\net8.0\saker.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\saker\obj\Debug\net8.0\saker.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\saker\obj\Debug\net8.0\saker.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\saker\obj\Debug\net8.0\saker.dll
+C:\Users\Admin\Documents\GitHub\saker\obj\Debug\net8.0\refint\saker.dll
+C:\Users\Admin\Documents\GitHub\saker\obj\Debug\net8.0\saker.pdb
+C:\Users\Admin\Documents\GitHub\saker\obj\Debug\net8.0\saker.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\saker\obj\Debug\net8.0\ref\saker.dll
